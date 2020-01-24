@@ -6,3 +6,7 @@ I will be covering every topic, from the most basic to the most advanced, even s
 
 #### Day 1
 - Basic Operations
+
+#### Day 2
+- Self Assignment Operations
+- Special Operations
