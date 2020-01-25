@@ -10,3 +10,6 @@ I will be covering every topic, from the most basic to the most advanced, even s
 #### Day 2
 - Self Assignment Operations
 - Special Operations
+
+#### Day 3
+- Basic String Manipulation
