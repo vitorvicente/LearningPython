@@ -22,3 +22,6 @@ I will be covering every topic, from the most basic to the most advanced, even s
 
 #### Day 6
 - Types Operations
+
+#### Day 7
+- Basic Tuple Manipulation
