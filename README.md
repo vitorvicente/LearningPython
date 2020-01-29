@@ -19,3 +19,6 @@ I will be covering every topic, from the most basic to the most advanced, even s
 
 #### Day 5
 - Conditional Statements
+
+#### Day 6
+- Types Operations
