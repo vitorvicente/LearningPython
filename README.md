@@ -31,3 +31,7 @@ I will be covering every topic, from the most basic to the most advanced, even s
 
 #### Day 9
 - Basic Dictionary Manipulation
+
+#### Day 10
+- Basic For Loops
+- Basic While Loops
