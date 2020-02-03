@@ -4,34 +4,17 @@ This repository is the central for all source code related to my path in learnin
 I will be covering every topic, from the most basic to the most advanced, even stuff I already know from other languages such as Java & C.
 
 
-#### Day 1
+#### Changelog
 - Basic Operations
-
-#### Day 2
 - Self Assignment Operations
 - Special Operations
-
-#### Day 3
 - Basic String Manipulation
-
-#### Day 4
 - Basic List Manipulation
-
-#### Day 5
 - Conditional Statements
-
-#### Day 6
 - Types Operations
-
-#### Day 7
 - Basic Tuple Manipulation
-
-#### Day 8
 - Basic Set Manipulation
-
-#### Day 9
 - Basic Dictionary Manipulation
-
-#### Day 10
 - Basic For Loops
 - Basic While Loops
+- Basic Functions
