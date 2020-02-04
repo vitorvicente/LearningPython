@@ -18,3 +18,4 @@ I will be covering every topic, from the most basic to the most advanced, even s
 - Basic For Loops
 - Basic While Loops
 - Basic Functions
+- Lambda Functions
