@@ -26,3 +26,4 @@ I will be covering every topic, from the most basic to the most advanced, even s
 - Date/Time Module
 - JSON Module
 - RegEx Module
+- Try ... Except Blocks
