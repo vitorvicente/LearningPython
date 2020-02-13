@@ -27,3 +27,4 @@ I will be covering every topic, from the most basic to the most advanced, even s
 - JSON Module
 - RegEx Module
 - Try ... Except Blocks
+- User Input
