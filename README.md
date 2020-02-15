@@ -29,3 +29,4 @@ I will be covering every topic, from the most basic to the most advanced, even s
 - Try ... Except Blocks
 - User Input
 - File Input
+- Extra File Manipulation
