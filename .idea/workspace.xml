@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d825b21-cf35-4774-9db9-dfb89001906a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Input/UserInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input/FileInput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Input/demofile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +36,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.UserInput">
-    <configuration name="Dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FileInput">
+    <configuration name="FileInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,12 +45,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Input" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules/Dates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Input/FileInput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FileInput" />
         <item itemvalue="Python.UserInput" />
         <item itemvalue="Python.Try" />
         <item itemvalue="Python.RegEx" />
         <item itemvalue="Python.JSON" />
-        <item itemvalue="Python.Dates" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +190,7 @@
       <workItem from="1581425634911" duration="443000" />
       <workItem from="1581527561777" duration="229000" />
       <workItem from="1581600215786" duration="148000" />
+      <workItem from="1581718008343" duration="321000" />
     </task>
     <servers />
   </component>
@@ -208,22 +210,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="496" y="60" key="#conditionals/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1580318862061" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1581600363892">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1581718328500">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581600363892" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1581600363892">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581718328500" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1581718328500">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581600363892" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1581600363892">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581718328500" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1581718328500">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581600363892" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1581600363892">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581718328500" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1581718328500">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581600363892" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581718328500" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1581355963739">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -271,5 +273,6 @@
     <SUITE FILE_PATH="coverage/PythonLearning$conditionals.coverage" NAME="conditionals Coverage Results" MODIFIED="1580078796240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Control Flow" />
     <SUITE FILE_PATH="coverage/PythonLearning$RegEx.coverage" NAME="RegEx Coverage Results" MODIFIED="1581527595765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
     <SUITE FILE_PATH="coverage/PythonLearning$test.coverage" NAME="test Coverage Results" MODIFIED="1581176697845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modules" />
+    <SUITE FILE_PATH="coverage/PythonLearning$FileInput.coverage" NAME="FileInput Coverage Results" MODIFIED="1581718270035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input" />
   </component>
 </project>
